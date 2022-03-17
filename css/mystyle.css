@@ -1,0 +1,94 @@
+/*
+grayWhite: #f6f9ff;
+lightBlue: #e9efff;
+primaryDark: #3831df;
+primary: #5751ff;
+primaryLight: #4a43f5;
+darkGray: #2f4f75;
+denim: #182b57;
+porpoise: #495d74;
+coin: #929eac;
+cloud: #b6bec7;
+salt: #dbdfe3;
+lightSalt: #edeff1;
+*/
+
+.app-blu {
+    color:#5751FF !important;
+}
+
+.app-dark-blu {
+    color: #2F4F75 !important;
+}
+
+.app-grey {
+    color: #6D72A6 !important;
+}
+
+.bg-app-blu {
+    background-color: #5751FF !important;
+}
+
+.bg-app-dark-blu {
+    background-color: #182b57 !important;
+}
+
+.bg-app-meddark-blu {
+    background-color: #4a43f5 !important;
+}
+
+.bg-app-classic {
+    background-color: #f6f9ff;
+}
+
+.bg-app-ice {
+    background-color: #e9efff;
+}
+
+.text-size-2 {
+    font-size: 1.25rem;
+}
+
+.text-size-3 {
+    font-size: 1.5rem;
+}
+
+.text-size-4 {
+    font-size: 2rem;
+}
+
+.text-size-5 {
+    font-size: 2.5rem;
+}
+
+.dropdown-menu {
+    left: -1rem;
+    min-width: 8rem;
+  }
+
+span.sottolineato {
+    display: inline-block;
+    border-bottom: 4px solid #5751FF; 
+}
+
+.dist-marg-neg {
+    height: 20rem;
+}
+
+.marg-neg {
+    margin-top: -28rem;
+}
+
+.round {
+    border-radius: 1.5rem ;
+}
+
+.foot-list-item {
+    text-decoration: none;
+    color: white;
+}
+
+.foot-list-item:hover {
+    text-decoration: none;
+    color: #ebebeb;
+}
